@@ -317,6 +317,7 @@ img {
 }
 .work__img img {
   transition: 1s;
+  height: 100%;
 }
 .work__img img:hover {
   transform: scale(1.1);
